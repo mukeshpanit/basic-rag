@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-community
+
+## LLM PROVIDER
+
+langchain-groq
+langchain-text-splitters
